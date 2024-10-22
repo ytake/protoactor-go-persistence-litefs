@@ -9,7 +9,6 @@ import (
 	"strings"
 
 	"github.com/asynkron/protoactor-go/persistence"
-	_ "github.com/mattn/go-sqlite3"
 	"github.com/oklog/ulid/v2"
 	"google.golang.org/protobuf/proto"
 )
