@@ -1,1 +1,1 @@
-# protoactor-go-persistence-litefs
+# protoactor-go-persistence-litefs / sqlite
